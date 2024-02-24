@@ -12,7 +12,7 @@ class Program
 
         knowledgeBase = new Dictionary<string, string>
         {
-            { "What is your name?", "My name is ChatGPT." },
+            { "What is your name?", "My name is Ben." },
             { "How does the Dice Coefficient work?", "The Dice Coefficient measures the similarity between two strings." },
         };
 
@@ -27,7 +27,7 @@ class Program
             }
 
             string answer = GetAnswer(userQuestion);
-            Console.WriteLine("คำตอบ: " + answer);
+            Console.WriteLine("Answer: " + answer);
             Console.WriteLine();
             continue;
         }
