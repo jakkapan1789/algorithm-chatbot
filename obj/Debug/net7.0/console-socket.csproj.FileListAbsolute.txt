@@ -1,0 +1,15 @@
+/Users/jakkapanpakeerat/Programming/console-socket/bin/Debug/net7.0/console-socket
+/Users/jakkapanpakeerat/Programming/console-socket/bin/Debug/net7.0/console-socket.deps.json
+/Users/jakkapanpakeerat/Programming/console-socket/bin/Debug/net7.0/console-socket.runtimeconfig.json
+/Users/jakkapanpakeerat/Programming/console-socket/bin/Debug/net7.0/console-socket.dll
+/Users/jakkapanpakeerat/Programming/console-socket/bin/Debug/net7.0/console-socket.pdb
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.csproj.AssemblyReference.cache
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.AssemblyInfoInputs.cache
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.AssemblyInfo.cs
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.csproj.CoreCompileInputs.cache
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.dll
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/refint/console-socket.dll
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.pdb
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/console-socket.genruntimeconfig.cache
+/Users/jakkapanpakeerat/Programming/console-socket/obj/Debug/net7.0/ref/console-socket.dll
